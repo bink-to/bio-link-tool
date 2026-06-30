@@ -1,0 +1,26 @@
+{
+  "name": "bink-to-bio-link-tool",
+  "version": "1.0.0",
+  "description": "Bio Link Tool builds beautiful bio link pages to turn followers into customers",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "bio-link",
+    "link-in-bio",
+    "landing-page",
+    "social-media",
+    "marketing",
+    "analytics",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Bink",
+  "license": "ISC",
+  "homepage": "https://bink.to",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bink-to/bio-link-tool.git"
+  }
+}
